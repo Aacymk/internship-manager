@@ -1,6 +1,6 @@
 # Internship Radar
 
-**Tells you the day an internship application opens — and never tells you twice.**
+**Tells you the day an internship application opens.**
 
 Internship applications open on no announced schedule. Miss the week a posting
 goes up at a company you cared about and, for large programs, that is the
