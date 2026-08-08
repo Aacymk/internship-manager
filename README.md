@@ -18,21 +18,22 @@ or pay for, and it needs no API keys of any kind.
 
 <!-- RADAR:START -->
 
-### Tracking 248 open internship posting(s)
+### Tracking 249 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-08-07. Postings are not filtered by season or role — you see everything at the companies you follow._
+_Target season: Summer 2027. Last checked 2026-08-08. Postings are not filtered by season or role — you see everything at the companies you follow._
 
-**4 new since the last check:**
+**5 new since the last check:**
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
-| Intel | Environmental Health and Safety Intern | Poland, Gdansk | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293) |
-| TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7670700387322300677) |
-| TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670738362521520437) |
-| TikTok | Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7662594807715072261) |
+| Intel | Software Engineer (Intern) | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) |
+| Microsoft | Software Engineering INTERN | United States | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556957962) |
+| Robinhood | Market Research Strategy Intern | Singapore | Aug 04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727) |
+| TikTok | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670010726514493749?utm_source=Simplify&ref=Simplify) |
+| TikTok | Frontend Engineer Intern - Ads Interface | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify) |
 
 <details>
-<summary>All 248 tracked postings</summary>
+<summary>All 249 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
@@ -47,7 +48,6 @@ _Target season: Summer 2027. Last checked 2026-08-07. Postings are not filtered 
 | Capital One | Cyber Security Intern | McLean, VA Plano, TX | Aug 03 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319?utm_source=github-vansh-ouckah) |
 | Capital One | Data Analyst Intern | Mclean, VA | Jul 07 | [Apply](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah) |
 | Capital One | Data Science Intern | 8 locations Cambridge, MA SF San Jose, CA Plano, TX McLean, VA Richmond, VA Chicago, IL NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1?utm_source=Simplify&ref=Simplify) |
-| Capital One | Intern, Financial Analyst - January 2027 (4 Month) | Toronto, ON | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Fall-Intern--Financial-Analyst---January-2027--4-Month-_R247476) |
 | Capital One | Intern, Process Management - Summer 2027 | Toronto, ON | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Process-Management---Summer-2027_R247472) |
 | Capital One | Intern, Strategy Analyst - Summer 2027 | Toronto, ON | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Strategy-Analyst---Summer-2027_R243855-1) |
 | Capital One | Master's Data Science Internship | 8 locations Cambridge, MA SF San Jose, CA Plano, TX McLean, VA Richmond, VA Chicago, IL NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1?utm_source=Simplify&ref=Simplify) |
@@ -104,7 +104,7 @@ _Target season: Summer 2027. Last checked 2026-08-07. Postings are not filtered 
 | Intel | Pre-Silicon IP System Validation Intern | Malaysia, Penang | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047) |
 | Intel | Retail Sales and Marketing Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369) |
 | Intel | Server Quality and Reliability Intern | Costa Rica, San Jose | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940) |
-| Intel | SoC Functional Validation Intern | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018) |
+| Intel | Software Engineer (Intern) | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) |
 | Intel | System Validation Intern (Power and Performance) | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548) |
 | Intel | Test Process and Equipment Engineer Intern | Vietnam, Ho_Chi_Minh_City | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072) |
 | Intel | Treasury Analyst Intern | Costa Rica, San Jose | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827) |
@@ -130,13 +130,12 @@ _Target season: Summer 2027. Last checked 2026-08-07. Postings are not filtered 
 | Microsoft | Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students | Washington, DC | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922922) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI | Washington, DC | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students - Redmond | Washington, DC | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
+| Microsoft | Software Engineering INTERN | United States | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556957962) |
 | NVIDIA | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) |
 | NVIDIA | Applied Research Intern, NLP - Fall 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) |
 | NVIDIA | PhD Research Intern - System Software and I/O Architecture - Fall 2026 | Remote - Santa Clara, CA +2 | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
 | NVIDIA | PhD Research Intern, Generative AI - ... | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) |
 | NVIDIA | PhD Research Intern, Generative AI - 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) |
-| NVIDIA | PhD Research Intern, Security and Privacy - Fall 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) |
-| NVIDIA | PhD Research Intern, System Software and I/O Architecture - Fall 2026 | 3 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
 | NVIDIA | PhD Software Engineering Intern - Decision Intelligence - Fall 2026 | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
 | NVIDIA | PhD Software Engineering Intern, Deci... | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
 | NVIDIA | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
@@ -188,8 +187,10 @@ _Target season: Summer 2027. Last checked 2026-08-07. Postings are not filtered 
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) |
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
+| Robinhood | Market Research Strategy Intern | Singapore | Aug 04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727) |
 | Roblox | Software Engineer Intern | San Mateo, CA | Aug 05 | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us&utm_source=github-vansh-ouckah) |
 | Stripe | Software Engineer, Intern | Bengaluru | Jul 10 | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
+| TikTok | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670010726514493749?utm_source=Simplify&ref=Simplify) |
 | TikTok | AI Product Manager Intern - Content Ecosystem | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7667578131150506293?utm_source=Simplify&ref=Simplify) |
 | TikTok | AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7646621925436131637) |
 | TikTok | Artificial Intelligence Engineer Intern - Client Architecture | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7667935738190465285?utm_source=Simplify&ref=Simplify) |
@@ -206,6 +207,7 @@ _Target season: Summer 2027. Last checked 2026-08-07. Postings are not filtered 
 | TikTok | Data Science Intern - TikTok Live | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7669700822370945333?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Science Intern - TikTok Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7669683639101884725?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Scientist Intern - VOD Data | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670287013157095733?utm_source=Simplify&ref=Simplify) |
+| TikTok | Frontend Engineer Intern - Ads Interface | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify) |
 | TikTok | Frontend Engineer Intern, Global CRM | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7669711026846058757?utm_source=github-vansh-ouckah) |
 | TikTok | Frontend Engineer Intern, TikTok-Open Platform | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7667935739300792629?utm_source=github-vansh-ouckah) |
 | TikTok | Frontend Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7668584161852229893?utm_source=github-vansh-ouckah) |

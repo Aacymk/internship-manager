@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "last_run": "2026-08-07",
-  "updated_at": "2026-08-07T14:04:53",
-  "count": 269,
+  "last_run": "2026-08-08",
+  "updated_at": "2026-08-08T13:37:56",
+  "count": 274,
   "seen": {
     "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706": {
       "source": "Adobe (workday)",
@@ -22,7 +22,7 @@
       "location": "4 Locations",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706": {
       "source": "zapplyjobs",
@@ -42,7 +42,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556922923": {
       "source": "speedyapply",
@@ -52,7 +52,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556922929": {
       "source": "speedyapply",
@@ -62,7 +62,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556922930": {
       "source": "speedyapply",
@@ -72,7 +72,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556922931": {
       "source": "speedyapply",
@@ -82,7 +82,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556951950": {
       "source": "speedyapply",
@@ -92,7 +92,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556953113": {
       "source": "vanshb03",
@@ -102,7 +102,7 @@
       "location": "Remote",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers/job/1970393556955518": {
       "source": "speedyapply",
@@ -112,7 +112,17 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
+    },
+    "https://apply.careers.microsoft.com/careers/job/1970393556957962": {
+      "source": "zapplyjobs",
+      "company": "Microsoft",
+      "role": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957962",
+      "location": "United States",
+      "posted": null,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0": {
       "source": "vanshb03",
@@ -122,7 +132,7 @@
       "location": "Multiple Locations, United States",
       "posted": "2026-08-03",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922": {
       "source": "vanshb03",
@@ -132,7 +142,7 @@
       "location": "Multiple Locations, United States",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923": {
       "source": "vanshb03",
@@ -142,7 +152,7 @@
       "location": "Redmond, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929": {
       "source": "vanshb03",
@@ -152,7 +162,7 @@
       "location": "Redmond, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930": {
       "source": "vanshb03",
@@ -162,7 +172,7 @@
       "location": "Redmond, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931": {
       "source": "vanshb03",
@@ -172,7 +182,7 @@
       "location": "Redmond, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/7796077": {
       "source": "Cloudflare (greenhouse)",
@@ -182,7 +192,7 @@
       "location": "In-Office",
       "posted": "2026-04-10",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/7902104": {
       "source": "Cloudflare (greenhouse)",
@@ -192,7 +202,7 @@
       "location": "In-Office",
       "posted": "2026-08-03",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8013562": {
       "source": "Cloudflare (greenhouse)",
@@ -202,7 +212,7 @@
       "location": "In-Office",
       "posted": "2026-06-26",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8031027": {
       "source": "Cloudflare (greenhouse)",
@@ -212,7 +222,7 @@
       "location": "In-Office",
       "posted": "2026-07-01",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8044395": {
       "source": "Cloudflare (greenhouse)",
@@ -222,7 +232,7 @@
       "location": "In-Office",
       "posted": "2026-07-06",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8052785": {
       "source": "speedyapply",
@@ -232,7 +242,7 @@
       "location": "Austin, TX",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8053546": {
       "source": "Cloudflare (greenhouse)",
@@ -252,7 +262,7 @@
       "location": "In-Office",
       "posted": "2026-07-10",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8089379": {
       "source": "Cloudflare (greenhouse)",
@@ -262,7 +272,7 @@
       "location": "In-Office",
       "posted": "2026-07-28",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8089400": {
       "source": "Cloudflare (greenhouse)",
@@ -272,7 +282,7 @@
       "location": "In-Office",
       "posted": "2026-07-28",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8089407": {
       "source": "Cloudflare (greenhouse)",
@@ -282,7 +292,7 @@
       "location": "In-Office",
       "posted": "2026-07-29",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8093127": {
       "source": "Cloudflare (greenhouse)",
@@ -292,7 +302,7 @@
       "location": "In-Office",
       "posted": "2026-07-31",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8095533": {
       "source": "Cloudflare (greenhouse)",
@@ -312,7 +322,7 @@
       "location": "In-Office",
       "posted": "2026-08-03",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8104138": {
       "source": "zapplyjobs",
@@ -322,7 +332,7 @@
       "location": "Austin, TX",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/cloudflare/jobs/8105728": {
       "source": "Cloudflare (greenhouse)",
@@ -332,7 +342,7 @@
       "location": "In-Office",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://boards.greenhouse.io/embed/job_app?token=6883068002": {
       "source": "SimplifyJobs",
@@ -342,7 +352,17 @@
       "location": "SF Bellevue, WA Mountain View, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
+    },
+    "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D": {
+      "source": "Robinhood (greenhouse)",
+      "company": "Robinhood",
+      "role": "Market Research Strategy Intern",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727",
+      "location": "Singapore",
+      "posted": "2026-08-04",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1": {
       "source": "SimplifyJobs",
@@ -352,7 +372,7 @@
       "location": "8 locations Cambridge, MA SF San Jose, CA Plano, TX McLean, VA Richmond, VA Chicago, IL NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1": {
       "source": "SimplifyJobs",
@@ -362,7 +382,7 @@
       "location": "8 locations Cambridge, MA SF San Jose, CA Plano, TX McLean, VA Richmond, VA Chicago, IL NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1": {
       "source": "SimplifyJobs",
@@ -372,7 +392,7 @@
       "location": "Plano, TX McLean, VA Richmond, VA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319": {
       "source": "vanshb03",
@@ -382,7 +402,7 @@
       "location": "McLean, VA Plano, TX",
       "posted": "2026-08-03",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Commercial-Internship-Program---Summer-2027_R244239-1": {
       "source": "Capital One (workday)",
@@ -422,7 +442,7 @@
       "location": "McLean, VA Plano, TX Richmond, VA",
       "posted": "2026-08-03",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Fall-Intern--Financial-Analyst---January-2027--4-Month-_R247476": {
       "source": "Capital One (workday)",
@@ -442,7 +462,7 @@
       "location": "Toronto, ON",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Strategy-Analyst---Summer-2027_R243855-1": {
       "source": "Capital One (workday)",
@@ -452,7 +472,7 @@
       "location": "Toronto, ON",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://careers.roblox.com/jobs/8072713": {
       "source": "vanshb03",
@@ -462,7 +482,7 @@
       "location": "San Mateo, CA",
       "posted": "2026-08-05",
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://databricks.com/company/careers/open-positions/job": {
       "source": "Databricks (greenhouse)",
@@ -472,7 +492,7 @@
       "location": "San Francisco, California",
       "posted": "2023-11-07",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Intern-Category-Mgmt-Fashion--f-m-d-_R0075958": {
       "source": "eBay (workday)",
@@ -482,7 +502,7 @@
       "location": "Kleinmachnow",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Milano/Intern-Marketing-IT--f-m-d-_R0075436": {
       "source": "eBay (workday)",
@@ -492,7 +512,7 @@
       "location": "Milano",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Paris/Intern-Category---Seller-Success-FR_R0075462": {
       "source": "eBay (workday)",
@@ -502,7 +522,7 @@
       "location": "Paris",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325": {
       "source": "zapplyjobs",
@@ -512,7 +532,7 @@
       "location": "Seattle, WA, United St...",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333": {
       "source": "zapplyjobs",
@@ -522,7 +542,7 @@
       "location": "Austin, TX, United States",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389": {
       "source": "zapplyjobs",
@@ -542,7 +562,7 @@
       "location": "Austin, TX, United States",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641": {
       "source": "zapplyjobs",
@@ -572,7 +592,7 @@
       "location": "Costa Rica, San Jose",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084": {
       "source": "Intel (workday)",
@@ -582,7 +602,7 @@
       "location": "Costa Rica, San Jose",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1": {
       "source": "Intel (workday)",
@@ -592,7 +612,7 @@
       "location": "Costa Rica, San Jose",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940": {
       "source": "Intel (workday)",
@@ -602,7 +622,7 @@
       "location": "Costa Rica, San Jose",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827": {
       "source": "Intel (workday)",
@@ -612,7 +632,7 @@
       "location": "Costa Rica, San Jose",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/AI-Product-Analyst-Student-for-AI-Solutions-Group--Beer-Sheva-_JR0284920": {
       "source": "Intel (workday)",
@@ -622,7 +642,7 @@
       "location": "Israel, Kiryat-Gat",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/IT-Network-Student_JR0285867": {
       "source": "Intel (workday)",
@@ -642,7 +662,7 @@
       "location": "Israel, Kiryat-Gat",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0283662": {
       "source": "Intel (workday)",
@@ -652,7 +672,7 @@
       "location": "Israel, Petah-Tikva",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Finance-Intern_JR0285181": {
       "source": "Intel (workday)",
@@ -662,7 +682,7 @@
       "location": "Malaysia, Penang",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047": {
       "source": "Intel (workday)",
@@ -672,7 +692,7 @@
       "location": "Malaysia, Penang",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303": {
       "source": "Intel (workday)",
@@ -692,7 +712,7 @@
       "location": "Mexico, Guadalajara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211": {
       "source": "Intel (workday)",
@@ -702,7 +722,7 @@
       "location": "Mexico, Guadalajara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377": {
       "source": "Intel (workday)",
@@ -712,7 +732,7 @@
       "location": "Mexico, Guadalajara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018": {
       "source": "Intel (workday)",
@@ -724,6 +744,16 @@
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-07"
     },
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1": {
+      "source": "Intel (workday)",
+      "company": "Intel",
+      "role": "Software Engineer (Intern)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
+      "location": "Mexico, Guadalajara",
+      "posted": null,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08"
+    },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548": {
       "source": "Intel (workday)",
       "company": "Intel",
@@ -732,7 +762,7 @@
       "location": "Mexico, Guadalajara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840": {
       "source": "Intel (workday)",
@@ -742,7 +772,7 @@
       "location": "PRC, Beijing",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245": {
       "source": "Intel (workday)",
@@ -752,7 +782,7 @@
       "location": "PRC, Chengdu",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771": {
       "source": "Intel (workday)",
@@ -762,7 +792,7 @@
       "location": "3 Locations",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471": {
       "source": "Intel (workday)",
@@ -782,7 +812,7 @@
       "location": "Poland, Gdansk",
       "posted": null,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641": {
       "source": "Intel (workday)",
@@ -792,7 +822,7 @@
       "location": "US, Arizona, Phoenix",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246": {
       "source": "Intel (workday)",
@@ -802,7 +832,7 @@
       "location": "US, New Mexico, Albuquerque",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454": {
       "source": "Intel (workday)",
@@ -812,7 +842,7 @@
       "location": "US, New Mexico, Albuquerque",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639": {
       "source": "Intel (workday)",
@@ -822,7 +852,7 @@
       "location": "2 Locations",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108": {
       "source": "Intel (workday)",
@@ -832,7 +862,7 @@
       "location": "Vietnam, Ho_Chi_Minh_City",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Design-Verification-Intern_JR0285979": {
       "source": "Intel (workday)",
@@ -842,7 +872,7 @@
       "location": "Vietnam, Ho_Chi_Minh_City",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1": {
       "source": "Intel (workday)",
@@ -852,7 +882,7 @@
       "location": "Vietnam, Ho_Chi_Minh_City",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Physical-Design-Intern_JR0285663": {
       "source": "Intel (workday)",
@@ -882,7 +912,7 @@
       "location": "Vietnam, Ho_Chi_Minh_City",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369": {
       "source": "Intel (workday)",
@@ -892,7 +922,7 @@
       "location": "2 Locations",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989": {
       "source": "Intel (workday)",
@@ -902,7 +932,7 @@
       "location": "Virtual US",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641": {
       "source": "speedyapply",
@@ -912,7 +942,7 @@
       "location": "Phoenix, AZ",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639": {
       "source": "speedyapply",
@@ -922,7 +952,7 @@
       "location": "Hillsboro, OR +1",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989": {
       "source": "speedyapply",
@@ -932,7 +962,7 @@
       "location": "Remote - USA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.apple.com/en-us/details/200664320-3810": {
       "source": "speedyapply",
@@ -942,7 +972,7 @@
       "location": "USA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships": {
       "source": "vanshb03",
@@ -952,7 +982,7 @@
       "location": "United States",
       "posted": "2026-05-22",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.apple.com/en-us/details/200664323-3810": {
       "source": "speedyapply",
@@ -962,7 +992,7 @@
       "location": "USA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.apple.com/en-us/details/200664785-3810": {
       "source": "speedyapply",
@@ -972,7 +1002,7 @@
       "location": "USA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships": {
       "source": "vanshb03",
@@ -982,7 +1012,7 @@
       "location": "United States",
       "posted": "2026-05-22",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b": {
       "source": "Cohere (ashby)",
@@ -992,7 +1022,7 @@
       "location": "Canada",
       "posted": "2026-05-13",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785": {
       "source": "Cohere (ashby)",
@@ -1002,7 +1032,7 @@
       "location": "Canada",
       "posted": "2026-05-01",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "source": "speedyapply",
@@ -1012,7 +1042,7 @@
       "location": "Canada +1",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b": {
       "source": "Palantir (lever)",
@@ -1022,7 +1052,7 @@
       "location": "New York, NY",
       "posted": "2016-10-06",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply": {
       "source": "SimplifyJobs",
@@ -1032,7 +1062,7 @@
       "location": "NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6": {
       "source": "Palantir (lever)",
@@ -1042,7 +1072,7 @@
       "location": "New York, NY",
       "posted": "2019-10-10",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
       "source": "Palantir (lever)",
@@ -1052,7 +1082,7 @@
       "location": "Paris, France",
       "posted": "2026-05-06",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf": {
       "source": "Palantir (lever)",
@@ -1062,7 +1092,7 @@
       "location": "London, United Kingdom",
       "posted": "2021-07-01",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e": {
       "source": "Palantir (lever)",
@@ -1072,7 +1102,7 @@
       "location": "Honolulu, HI",
       "posted": "2025-12-11",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249": {
       "source": "Palantir (lever)",
@@ -1082,7 +1112,7 @@
       "location": "Denver, CO",
       "posted": "2024-08-29",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116": {
       "source": "Palantir (lever)",
@@ -1092,7 +1122,7 @@
       "location": "New York, NY",
       "posted": "2025-06-26",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976": {
       "source": "Palantir (lever)",
@@ -1102,7 +1132,7 @@
       "location": "Sydney, Australia",
       "posted": "2026-05-29",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86": {
       "source": "Palantir (lever)",
@@ -1112,7 +1142,7 @@
       "location": "Washington, D.C.",
       "posted": "2025-08-19",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63": {
       "source": "Palantir (lever)",
@@ -1122,7 +1152,7 @@
       "location": "London, United Kingdom",
       "posted": "2019-01-29",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
       "source": "Palantir (lever)",
@@ -1132,7 +1162,7 @@
       "location": "New York, NY",
       "posted": "2016-02-24",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636": {
       "source": "Palantir (lever)",
@@ -1142,7 +1172,7 @@
       "location": "London, United Kingdom",
       "posted": "2025-08-01",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019": {
       "source": "speedyapply",
@@ -1152,7 +1182,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
       "source": "Palantir (lever)",
@@ -1162,7 +1192,7 @@
       "location": "New York, NY",
       "posted": "2026-03-20",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329": {
       "source": "Palantir (lever)",
@@ -1172,7 +1202,7 @@
       "location": "New York, NY",
       "posted": "2026-03-20",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
       "source": "speedyapply",
@@ -1182,7 +1212,7 @@
       "location": "Chicago, IL",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602": {
       "source": "Palantir (lever)",
@@ -1192,7 +1222,7 @@
       "location": "London, United Kingdom",
       "posted": "2021-07-01",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0": {
       "source": "Palantir (lever)",
@@ -1202,7 +1232,7 @@
       "location": "Paris, France",
       "posted": "2026-05-11",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e": {
       "source": "Palantir (lever)",
@@ -1212,7 +1242,7 @@
       "location": "New York, NY",
       "posted": "2024-08-05",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d": {
       "source": "Palantir (lever)",
@@ -1222,7 +1252,7 @@
       "location": "New York, NY",
       "posted": "2025-08-12",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a": {
       "source": "Palantir (lever)",
@@ -1232,7 +1262,7 @@
       "location": "Palo Alto, CA",
       "posted": "2026-07-31",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89": {
       "source": "speedyapply",
@@ -1242,7 +1272,7 @@
       "location": "Washington, DC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
       "source": "Palantir (lever)",
@@ -1252,7 +1282,7 @@
       "location": "Palo Alto, CA",
       "posted": "2024-08-05",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e": {
       "source": "Palantir (lever)",
@@ -1262,7 +1292,7 @@
       "location": "Honolulu, HI",
       "posted": "2025-12-11",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f": {
       "source": "Palantir (lever)",
@@ -1272,7 +1302,7 @@
       "location": "New York, NY",
       "posted": "2026-03-10",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b": {
       "source": "Palantir (lever)",
@@ -1282,7 +1312,7 @@
       "location": "Washington, D.C.",
       "posted": "2024-08-05",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2": {
       "source": "speedyapply",
@@ -1292,7 +1322,7 @@
       "location": "Chicago, IL",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply": {
       "source": "SimplifyJobs",
@@ -1302,7 +1332,7 @@
       "location": "Chicago, IL",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9": {
       "source": "Palantir (lever)",
@@ -1312,7 +1342,7 @@
       "location": "New York, NY",
       "posted": "2026-02-19",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f": {
       "source": "Palantir (lever)",
@@ -1322,7 +1352,7 @@
       "location": "New York, NY",
       "posted": "2022-06-30",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d": {
       "source": "Palantir (lever)",
@@ -1332,7 +1362,7 @@
       "location": "New York, NY",
       "posted": "2026-03-20",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2": {
       "source": "Palantir (lever)",
@@ -1342,7 +1372,7 @@
       "location": "Washington, D.C.",
       "posted": "2021-07-01",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7": {
       "source": "Palantir (lever)",
@@ -1352,7 +1382,7 @@
       "location": "Washington, D.C.",
       "posted": "2024-08-05",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4": {
       "source": "Palantir (lever)",
@@ -1362,7 +1392,7 @@
       "location": "Palo Alto, CA",
       "posted": "2025-08-19",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5": {
       "source": "Palantir (lever)",
@@ -1372,7 +1402,7 @@
       "location": "Washington, D.C.",
       "posted": "2024-08-19",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e": {
       "source": "Palantir (lever)",
@@ -1382,7 +1412,7 @@
       "location": "London, United Kingdom",
       "posted": "2025-06-26",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759": {
       "source": "zapplyjobs",
@@ -1392,7 +1422,7 @@
       "location": "Chicago, IL, United St...",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759": {
       "source": "SimplifyJobs",
@@ -1402,7 +1432,7 @@
       "location": "9 locations Palo Alto, CA Houston, TX Tampa, FL Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869": {
       "source": "SimplifyJobs",
@@ -1412,7 +1442,7 @@
       "location": "8 locations Palo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978": {
       "source": "SimplifyJobs",
@@ -1422,7 +1452,7 @@
       "location": "Plano, TX Chicago, IL NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038": {
       "source": "SimplifyJobs",
@@ -1432,7 +1462,7 @@
       "location": "NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061": {
       "source": "SimplifyJobs",
@@ -1442,7 +1472,7 @@
       "location": "NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074": {
       "source": "SimplifyJobs",
@@ -1452,7 +1482,7 @@
       "location": "NYC",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223": {
       "source": "SimplifyJobs",
@@ -1462,7 +1492,7 @@
       "location": "8 locations Palo Alto, CA Newark, DE Plano, TX Chicago, IL Jersey City, NJ Columbus, OH NYC Wilmington, DE",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7629500062003218741": {
       "source": "speedyapply",
@@ -1472,7 +1502,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7631599293708126517": {
       "source": "vanshb03",
@@ -1482,7 +1512,7 @@
       "location": "San Jose, CA",
       "posted": "2026-04-24",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7637047421538404613": {
       "source": "speedyapply",
@@ -1502,7 +1532,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7654431844394322229": {
       "source": "speedyapply",
@@ -1512,7 +1542,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662594807715072261": {
       "source": "speedyapply",
@@ -1522,7 +1552,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662653087863081221": {
       "source": "SimplifyJobs",
@@ -1532,7 +1562,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662657855099357493": {
       "source": "SimplifyJobs",
@@ -1542,7 +1572,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662661203281447221": {
       "source": "SimplifyJobs",
@@ -1552,7 +1582,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662672554084059445": {
       "source": "SimplifyJobs",
@@ -1562,7 +1592,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662672903447988485": {
       "source": "SimplifyJobs",
@@ -1572,7 +1602,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662677746436524293": {
       "source": "SimplifyJobs",
@@ -1582,7 +1612,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662684280234232117": {
       "source": "vanshb03",
@@ -1592,7 +1622,7 @@
       "location": "Seattle, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7662700594251958581": {
       "source": "vanshb03",
@@ -1602,7 +1632,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7665475460339665157": {
       "source": "SimplifyJobs",
@@ -1612,7 +1642,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7665475888805611781": {
       "source": "SimplifyJobs",
@@ -1622,7 +1652,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667338938890930437": {
       "source": "SimplifyJobs",
@@ -1632,7 +1662,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667339583362025781": {
       "source": "SimplifyJobs",
@@ -1642,7 +1672,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667346576033777925": {
       "source": "SimplifyJobs",
@@ -1652,7 +1682,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667349591727278341": {
       "source": "SimplifyJobs",
@@ -1662,7 +1692,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667350291952765237": {
       "source": "SimplifyJobs",
@@ -1672,7 +1702,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667578131150506293": {
       "source": "SimplifyJobs",
@@ -1682,7 +1712,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667874197682899205": {
       "source": "SimplifyJobs",
@@ -1692,7 +1722,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667933335084124469": {
       "source": "vanshb03",
@@ -1702,7 +1732,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667933770625599749": {
       "source": "SimplifyJobs",
@@ -1712,7 +1742,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667933770819897605": {
       "source": "vanshb03",
@@ -1722,7 +1752,7 @@
       "location": "San Jose",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667934169444485429": {
       "source": "SimplifyJobs",
@@ -1732,7 +1762,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667934302872537397": {
       "source": "vanshb03",
@@ -1742,7 +1772,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667934635573692725": {
       "source": "vanshb03",
@@ -1752,7 +1782,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667934759481526581": {
       "source": "speedyapply",
@@ -1762,7 +1792,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667934792727906565": {
       "source": "SimplifyJobs",
@@ -1772,7 +1802,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667934860750063925": {
       "source": "vanshb03",
@@ -1782,7 +1812,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935150530840837": {
       "source": "vanshb03",
@@ -1792,7 +1822,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935399050692917": {
       "source": "vanshb03",
@@ -1802,7 +1832,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935565120112949": {
       "source": "vanshb03",
@@ -1812,7 +1842,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935633764370741": {
       "source": "vanshb03",
@@ -1822,7 +1852,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935738190465285": {
       "source": "SimplifyJobs",
@@ -1832,7 +1862,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935738376227077": {
       "source": "vanshb03",
@@ -1842,7 +1872,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935738840090933": {
       "source": "SimplifyJobs",
@@ -1852,7 +1882,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935739300317493": {
       "source": "vanshb03",
@@ -1862,7 +1892,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7667935739300792629": {
       "source": "vanshb03",
@@ -1872,7 +1902,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668183035989281029": {
       "source": "SimplifyJobs",
@@ -1882,7 +1912,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668202600147552517": {
       "source": "SimplifyJobs",
@@ -1892,7 +1922,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668202602270951733": {
       "source": "SimplifyJobs",
@@ -1902,7 +1932,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668204438271969589": {
       "source": "SimplifyJobs",
@@ -1912,7 +1942,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668379675467761925": {
       "source": "SimplifyJobs",
@@ -1922,7 +1952,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668383643375257909": {
       "source": "SimplifyJobs",
@@ -1932,7 +1962,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668396597746862341": {
       "source": "SimplifyJobs",
@@ -1942,7 +1972,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668415591670417717": {
       "source": "SimplifyJobs",
@@ -1952,7 +1982,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668445566565321013": {
       "source": "vanshb03",
@@ -1962,7 +1992,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668533140146817333": {
       "source": "SimplifyJobs",
@@ -1972,7 +2002,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668581636242016565": {
       "source": "speedyapply",
@@ -1982,7 +2012,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668582031916435717": {
       "source": "vanshb03",
@@ -1992,7 +2022,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668582086899763461": {
       "source": "vanshb03",
@@ -2002,7 +2032,7 @@
       "location": "Seattle, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668582146236631349": {
       "source": "vanshb03",
@@ -2012,7 +2042,7 @@
       "location": "Seattle, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668584161852229893": {
       "source": "vanshb03",
@@ -2022,7 +2052,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668584916620527925": {
       "source": "vanshb03",
@@ -2032,7 +2062,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668642761473902901": {
       "source": "vanshb03",
@@ -2042,7 +2072,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668654528822954245": {
       "source": "SimplifyJobs",
@@ -2052,7 +2082,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668675500744837381": {
       "source": "vanshb03",
@@ -2062,7 +2092,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668696895234197813": {
       "source": "speedyapply",
@@ -2072,7 +2102,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668725183121000757": {
       "source": "vanshb03",
@@ -2082,7 +2112,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668820702623467781": {
       "source": "SimplifyJobs",
@@ -2092,7 +2122,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668834837268138293": {
       "source": "vanshb03",
@@ -2102,7 +2132,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668834837268416821": {
       "source": "vanshb03",
@@ -2112,7 +2142,7 @@
       "location": "Seattle, WA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668837275459324213": {
       "source": "speedyapply",
@@ -2122,7 +2152,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668837276597127477": {
       "source": "speedyapply",
@@ -2132,7 +2162,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668862422178318597": {
       "source": "vanshb03",
@@ -2142,7 +2172,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7668921505254410549": {
       "source": "vanshb03",
@@ -2152,7 +2182,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669682935444900149": {
       "source": "SimplifyJobs",
@@ -2162,7 +2192,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669683639101884725": {
       "source": "SimplifyJobs",
@@ -2172,7 +2202,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669693163422845237": {
       "source": "SimplifyJobs",
@@ -2182,7 +2212,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669693205558561077": {
       "source": "SimplifyJobs",
@@ -2192,7 +2222,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669698648817305909": {
       "source": "SimplifyJobs",
@@ -2202,7 +2232,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669700361976809733": {
       "source": "SimplifyJobs",
@@ -2212,7 +2242,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669700822370945333": {
       "source": "SimplifyJobs",
@@ -2222,7 +2252,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669702702763018501": {
       "source": "SimplifyJobs",
@@ -2232,7 +2262,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669705785962727733": {
       "source": "vanshb03",
@@ -2242,7 +2272,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669707492914727221": {
       "source": "SimplifyJobs",
@@ -2252,7 +2282,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669709472078170373": {
       "source": "SimplifyJobs",
@@ -2262,7 +2292,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669711026846058757": {
       "source": "vanshb03",
@@ -2272,7 +2302,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669711844487399685": {
       "source": "vanshb03",
@@ -2282,7 +2312,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669711968043092229": {
       "source": "SimplifyJobs",
@@ -2292,7 +2322,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669712589169117445": {
       "source": "vanshb03",
@@ -2302,7 +2332,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669927344569764101": {
       "source": "SimplifyJobs",
@@ -2312,7 +2342,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7669943120351906053": {
       "source": "vanshb03",
@@ -2322,7 +2352,7 @@
       "location": "San Jose, CA",
       "posted": "2026-08-04",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670009830602721589": {
       "source": "SimplifyJobs",
@@ -2332,7 +2362,17 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
+    },
+    "https://lifeattiktok.com/search/7670010726514493749": {
+      "source": "SimplifyJobs",
+      "company": "TikTok",
+      "role": "AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform",
+      "url": "https://lifeattiktok.com/search/7670010726514493749?utm_source=Simplify&ref=Simplify",
+      "location": "San Jose, CA",
+      "posted": null,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670281449668905269": {
       "source": "speedyapply",
@@ -2342,7 +2382,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670285031018432773": {
       "source": "SimplifyJobs",
@@ -2352,7 +2392,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670287013157095733": {
       "source": "SimplifyJobs",
@@ -2362,7 +2402,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670289874020993285": {
       "source": "speedyapply",
@@ -2372,7 +2412,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670295535077427509": {
       "source": "speedyapply",
@@ -2382,7 +2422,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670420287191517493": {
       "source": "SimplifyJobs",
@@ -2392,7 +2432,7 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670700387322300677": {
       "source": "speedyapply",
@@ -2402,7 +2442,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://lifeattiktok.com/search/7670738362521520437": {
       "source": "speedyapply",
@@ -2412,7 +2452,17 @@
       "location": "San Jose, CA",
       "posted": null,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
+    },
+    "https://lifeattiktok.com/search/7671211313289398581": {
+      "source": "SimplifyJobs",
+      "company": "TikTok",
+      "role": "Frontend Engineer Intern - Ads Interface",
+      "url": "https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify",
+      "location": "San Jose, CA",
+      "posted": null,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08"
     },
     "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Sao-Paulo-Brazil/Internship-Program--2027---So-Paulo--Brazil_R-286481": {
       "source": "Mastercard (workday)",
@@ -2432,7 +2482,7 @@
       "location": "2 Locations",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Deployment-and-Humanoids---2026_JR2019641": {
       "source": "NVIDIA (workday)",
@@ -2442,7 +2492,7 @@
       "location": "China, Shanghai",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Applied-Physics-and-Electro-Optics-Intern_JR2018120": {
       "source": "NVIDIA (workday)",
@@ -2462,7 +2512,7 @@
       "location": "Taiwan, Taipei",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952": {
       "source": "NVIDIA (workday)",
@@ -2472,7 +2522,7 @@
       "location": "Taiwan, Taipei",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783": {
       "source": "NVIDIA (workday)",
@@ -2482,7 +2532,7 @@
       "location": "Taiwan, Taipei",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398": {
       "source": "NVIDIA (workday)",
@@ -2492,7 +2542,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488": {
       "source": "NVIDIA (workday)",
@@ -2502,7 +2552,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035": {
       "source": "NVIDIA (workday)",
@@ -2512,7 +2562,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1": {
       "source": "NVIDIA (workday)",
@@ -2542,7 +2592,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295": {
       "source": "NVIDIA (workday)",
@@ -2552,7 +2602,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667": {
       "source": "speedyapply",
@@ -2562,7 +2612,7 @@
       "location": "Remote - Santa Clara, CA +2",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522": {
       "source": "speedyapply",
@@ -2572,7 +2622,7 @@
       "location": "Santa Clara, CA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295": {
       "source": "speedyapply",
@@ -2582,7 +2632,7 @@
       "location": "Santa Clara, CA",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779": {
       "source": "speedyapply",
@@ -2602,7 +2652,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522": {
       "source": "zapplyjobs",
@@ -2612,7 +2662,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295": {
       "source": "zapplyjobs",
@@ -2622,7 +2672,7 @@
       "location": "US, CA, Santa Clara",
       "posted": null,
       "first_seen": "2026-08-06",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1": {
       "source": "Salesforce (workday)",
@@ -2642,7 +2692,7 @@
       "location": "Bengaluru",
       "posted": "2026-07-10",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1": {
       "source": "vanshb03",
@@ -2652,7 +2702,7 @@
       "location": "8 locations Sunnyvale, CA North Reading, MA Westboro, MA Nashville, TN Austin, TX Arlington, VA Bellevue, WA Seattle, WA",
       "posted": "2026-05-09",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://www.amazon.jobs/jobs/10412530/apply": {
       "source": "speedyapply",
@@ -2662,7 +2712,7 @@
       "location": "Seattle, WA",
       "posted": null,
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472": {
       "source": "vanshb03",
@@ -2672,7 +2722,7 @@
       "location": "Mclean, VA",
       "posted": "2026-07-07",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027": {
       "source": "vanshb03",
@@ -2682,7 +2732,7 @@
       "location": "30 locations Mountain View, CA Atlanta, GA Austin, TX Boulder, CO Cambridge, MA Bellevue, WA Chicago, IL Houston, TX Irvine, CA Kirkland, WA Los Angeles, CA Madison, WI New York, NY Palo Alto, CA Portland, OR Pittsburgh, PA Raleigh, NC Durham, NC Reston, VA Redmond, WA Redwood City, CA San Diego, CA Goleta, CA San Bruno, CA Seattle, WA San Francisco, CA San Jose, CA Santa Cruz, CA South San Francisco, CA Sunnyvale, CA",
       "posted": "2026-07-24",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-08"
     },
     "https://www.metacareers.com/jobs/2160167211413098": {
       "source": "speedyapply",
