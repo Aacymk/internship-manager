@@ -18,22 +18,12 @@ or pay for, and it needs no API keys of any kind.
 
 <!-- RADAR:START -->
 
-### Tracking 249 open internship posting(s)
+### Tracking 251 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-08-08. Postings are not filtered by season or role — you see everything at the companies you follow._
-
-**5 new since the last check:**
-
-| Company | Role | Location | Posted | |
-| --- | --- | --- | --- | --- |
-| Intel | Software Engineer (Intern) | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) |
-| Microsoft | Software Engineering INTERN | United States | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556957962) |
-| Robinhood | Market Research Strategy Intern | Singapore | Aug 04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727) |
-| TikTok | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670010726514493749?utm_source=Simplify&ref=Simplify) |
-| TikTok | Frontend Engineer Intern - Ads Interface | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify) |
+_Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered by season or role — you see everything at the companies you follow._
 
 <details>
-<summary>All 249 tracked postings</summary>
+<summary>All 251 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
@@ -61,9 +51,9 @@ _Target season: Summer 2027. Last checked 2026-08-08. Postings are not filtered 
 | Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jul 01 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) |
 | Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jun 26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) |
 | Cloudflare | Professional Services Intern – Global Customer Services (Fall 2026) | In-Office | Apr 10 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) |
+| Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) |
-| Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | Cloudflare | Software Engineer Intern - Fall 2026 - Austin - TX | Austin, TX | - | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | Cloudflare | Technical Marketing Intern (Fall 2026) | In-Office | Aug 03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024) |
 | Cloudflare | U.S. Public Policy and AI Innovation Intern (Fall 2026) | In-Office | Aug 04 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) |
@@ -82,6 +72,8 @@ _Target season: Summer 2027. Last checked 2026-08-08. Postings are not filtered 
 | Intel | AI Software Engineer Graduate Intern | Virtual US | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) |
 | Intel | AI Software Engineering Intern | Hillsboro, OR +1 | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
 | Intel | AI Software Engineering Intern | Phoenix, AZ | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
+| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
+| Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | [Apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | Intel | AI Software Engineering Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | Intel | Analog Test Chip Industry Immersion Intern | Costa Rica, San Jose | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Analog-Test-Chip-Industry-Immersion-Intern_JR0285981) |
