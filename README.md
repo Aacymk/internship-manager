@@ -18,12 +18,21 @@ or pay for, and it needs no API keys of any kind.
 
 <!-- RADAR:START -->
 
-### Tracking 251 open internship posting(s)
+### Tracking 253 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered by season or role — you see everything at the companies you follow._
+_Target season: Summer 2027. Last checked 2026-08-10. Postings are not filtered by season or role — you see everything at the companies you follow._
+
+**4 new since the last check:**
+
+| Company | Role | Location | Posted | |
+| --- | --- | --- | --- | --- |
+| eBay | Working Student Employee Comms DE(f/m/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Working-Student-Employee-Comms-DE-f-m-d-_R0076308) |
+| Intel | AI Product Analyst student for AI Solutions Group | Israel, Haifa | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/AI-Product-Analyst-student-for-AI-Solutions-Group_JR0284923) |
+| Intel | IT Network Student | Israel, Kiryat-Gat | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/IT-Network-Student_JR0286334) |
+| Palantir | Forward Deployed Software Engineer, Internship - Commercial | Seoul, South Korea | Aug 10 | [Apply](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) |
 
 <details>
-<summary>All 251 tracked postings</summary>
+<summary>All 253 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
@@ -48,11 +57,11 @@ _Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered 
 | Cloudflare | Brand Social Media Intern (Fall 2026) | In-Office | Jul 10 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) |
 | Cloudflare | Customer Advocacy Intern (Fall 2026) | In-Office | Jul 31 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) |
 | Cloudflare | Marketing Programs and Analytics Inte... | Austin, TX | - | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138) |
-| Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jul 01 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) |
 | Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jun 26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) |
+| Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jul 01 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) |
 | Cloudflare | Professional Services Intern – Global Customer Services (Fall 2026) | In-Office | Apr 10 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) |
-| Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) |
+| Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) |
 | Cloudflare | Software Engineer Intern - Fall 2026 - Austin - TX | Austin, TX | - | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | Cloudflare | Technical Marketing Intern (Fall 2026) | In-Office | Aug 03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024) |
@@ -65,9 +74,10 @@ _Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered 
 | eBay | Intern Category & Seller Success FR | Paris | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Paris/Intern-Category---Seller-Success-FR_R0075462) |
 | eBay | Intern Category Mgmt. Fashion (f/m/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Intern-Category-Mgmt-Fashion--f-m-d-_R0075958) |
 | eBay | Intern Marketing IT (f/m/d) | Milano | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Milano/Intern-Marketing-IT--f-m-d-_R0075436) |
+| eBay | Working Student Employee Comms DE(f/m/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Working-Student-Employee-Comms-DE-f-m-d-_R0076308) |
 | Google | Software Engineering Intern | 30 locations Mountain View, CA Atlanta, GA Austin, TX Boulder, CO Cambridge, MA Bellevue, WA Chicago, IL Houston, TX Irvine, CA Kirkland, WA Los Angeles, CA Madison, WI New York, NY Palo Alto, CA Portland, OR Pittsburgh, PA Raleigh, NC Durham, NC Reston, VA Redmond, WA Redwood City, CA San Diego, CA Goleta, CA San Bruno, CA Seattle, WA San Francisco, CA San Jose, CA Santa Cruz, CA South San Francisco, CA Sunnyvale, CA | Jul 24 | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027?utm_source=github-vansh-ouckah) |
 | Intel | AI Engineer Intern | Vietnam, Ho_Chi_Minh_City | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108) |
-| Intel | AI Product Analyst Student for AI Solutions Group (Beer Sheva) | Israel, Kiryat-Gat | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/AI-Product-Analyst-Student-for-AI-Solutions-Group--Beer-Sheva-_JR0284920) |
+| Intel | AI Product Analyst student for AI Solutions Group | Israel, Haifa | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/AI-Product-Analyst-student-for-AI-Solutions-Group_JR0284923) |
 | Intel | AI Software Engineer Graduate Intern | Remote - USA | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) |
 | Intel | AI Software Engineer Graduate Intern | Virtual US | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) |
 | Intel | AI Software Engineering Intern | Hillsboro, OR +1 | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
@@ -87,6 +97,7 @@ _Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered 
 | Intel | Executive Assistant Intern | PRC, Beijing | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840) |
 | Intel | Facilities Engineering Intern | PRC, Chengdu | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245) |
 | Intel | Finance Intern | Malaysia, Penang | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Finance-Intern_JR0285181) |
+| Intel | IT Network Student | Israel, Kiryat-Gat | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Kiryat-Gat/IT-Network-Student_JR0286334) |
 | Intel | MBA Internship – Ecosystem Development Specialist | 3 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771) |
 | Intel | Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines | Vietnam, Ho_Chi_Minh_City | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1) |
 | Intel | MPQ MDCX Engineering Intern | Costa Rica, San Jose | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1) |
@@ -125,7 +136,6 @@ _Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered 
 | Microsoft | Software Engineering INTERN | United States | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556957962) |
 | NVIDIA | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) |
 | NVIDIA | Applied Research Intern, NLP - Fall 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) |
-| NVIDIA | PhD Research Intern - System Software and I/O Architecture - Fall 2026 | Remote - Santa Clara, CA +2 | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
 | NVIDIA | PhD Research Intern, Generative AI - ... | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) |
 | NVIDIA | PhD Research Intern, Generative AI - 2026 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) |
 | NVIDIA | PhD Software Engineering Intern - Decision Intelligence - Fall 2026 | Santa Clara, CA | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
@@ -149,6 +159,7 @@ _Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered 
 | Palantir | Forward Deployed Software Engineer Intern - Commercial | Chicago, IL | - | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply?utm_source=Simplify&ref=Simplify) |
 | Palantir | Forward Deployed Software Engineer, Internship | Paris, France | May 06 | [Apply](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a) |
 | Palantir | Forward Deployed Software Engineer, Internship - AUS Government | Sydney, Australia | May 29 | [Apply](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) |
+| Palantir | Forward Deployed Software Engineer, Internship - Commercial | Seoul, South Korea | Aug 10 | [Apply](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | Feb 24 | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | London, United Kingdom | Aug 01 | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) |
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | Aug 05 | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
@@ -199,13 +210,13 @@ _Target season: Summer 2027. Last checked 2026-08-09. Postings are not filtered 
 | TikTok | Data Science Intern - TikTok Live | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7669700822370945333?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Science Intern - TikTok Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7669683639101884725?utm_source=Simplify&ref=Simplify) |
 | TikTok | Data Scientist Intern - VOD Data | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670287013157095733?utm_source=Simplify&ref=Simplify) |
-| TikTok | Frontend Engineer Intern - Ads Interface | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671211313289398581?utm_source=Simplify&ref=Simplify) |
+| TikTok | Frontend Engineer Intern - Ads Interface - 2027 Summer | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7671211313289398581) |
 | TikTok | Frontend Engineer Intern, Global CRM | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7669711026846058757?utm_source=github-vansh-ouckah) |
 | TikTok | Frontend Engineer Intern, TikTok-Open Platform | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7667935739300792629?utm_source=github-vansh-ouckah) |
 | TikTok | Frontend Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA | Aug 04 | [Apply](https://lifeattiktok.com/search/7668584161852229893?utm_source=github-vansh-ouckah) |
 | TikTok | Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS） | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
-| TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7670700387322300677) |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670738362521520437) |
+| TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7670700387322300677) |
 | TikTok | Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7668183035989281029?utm_source=Simplify&ref=Simplify) |
 | TikTok | LLM Post-training Engineer Intern - Research & Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670285031018432773?utm_source=Simplify&ref=Simplify) |
 | TikTok | LLM Post-training Engineer Intern, Research & Product | San Jose, CA | Apr 24 | [Apply](https://lifeattiktok.com/search/7631599293708126517?utm_source=github-vansh-ouckah) |
