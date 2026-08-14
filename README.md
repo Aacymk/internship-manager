@@ -18,29 +18,23 @@ or pay for, and it needs no API keys of any kind.
 
 <!-- RADAR:START -->
 
-### Tracking 245 open internship posting(s)
+### Tracking 246 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered by season or role — you see everything at the companies you follow._
+_Target season: Summer 2027. Last checked 2026-08-14. Postings are not filtered by season or role — you see everything at the companies you follow._
 
-**12 new since the last check:**
+**6 new since the last check:**
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
-| eBay | Working Student Imports(m/f/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Working-Student-Imports-m-f-d-_R0076397) |
-| Oracle | Platform Software Engineer 1 - Full-time Intern Conversion | USA | - | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415) |
-| Salesforce | Sales Intern - Dutch Speaker | Netherlands - Amsterdam | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Netherlands---Amsterdam/Sales-Intern---Dutch-Speaker_JR335817-1) |
-| TikTok | Data Science Intern - Advertisement Team | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673226686054107445?utm_source=Simplify&ref=Simplify) |
-| TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672883129493948677?utm_source=Simplify&ref=Simplify) |
-| TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7672881840860940597?utm_source=Simplify&ref=Simplify) |
-| TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7672920375646488885?utm_source=Simplify&ref=Simplify) |
-| TikTok | Product Manager Intern - Ads Interface and Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672562486917286149?utm_source=Simplify&ref=Simplify) |
-| TikTok | Product Manager Intern - Ads Interface and Platform | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7672569081632229685?utm_source=Simplify&ref=Simplify) |
-| TikTok | Product Manager Intern - Commerce Ads | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672557943224961333?utm_source=Simplify&ref=Simplify) |
-| TikTok | Product Manager Intern - Signal and Identity Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672554809555192117?utm_source=Simplify&ref=Simplify) |
-| TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7669705525866383621?utm_source=Simplify&ref=Simplify) |
+| Cloudflare | Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026) | In-Office | Apr 24 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607) |
+| eBay | Intern Seller Community (m/f/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Intern-Seller-Community--m-f-d-_R0076401) |
+| TikTok | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673663349758675205?utm_source=Simplify&ref=Simplify) |
+| TikTok | Product Manager Intern - Content and Services | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673337777708550405?utm_source=Simplify&ref=Simplify) |
+| TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673559305519794437?utm_source=Simplify&ref=Simplify) |
+| TikTok | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673340525029673221?utm_source=Simplify&ref=Simplify) |
 
 <details>
-<summary>All 245 tracked postings</summary>
+<summary>All 246 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
@@ -52,8 +46,7 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | Apple | Software Engineering Masters Internships | USA | - | [Apply](https://jobs.apple.com/en-us/details/200664320-3810) |
 | Apple | Software PhD Internships | USA | - | [Apply](https://jobs.apple.com/en-us/details/200664323-3810) |
 | Apple | Software Undergrad Engineering Internships | USA | - | [Apply](https://jobs.apple.com/en-us/details/200664785-3810) |
-| Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
-| Capital One | Business Analyst Intern - Summer 2027 | 5 Locations | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) |
+| Capital One | Business Analyst Intern - Summer 2027 | McLean, VA | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) |
 | Capital One | Cyber Security Intern | McLean, VA Plano, TX | Aug 03 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319?utm_source=github-vansh-ouckah) |
 | Capital One | Data Analyst Intern | Mclean, VA | Jul 07 | [Apply](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah) |
 | Capital One | Data Science Intern | 8 locations Cambridge, MA SF San Jose, CA Plano, TX McLean, VA Richmond, VA Chicago, IL NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1?utm_source=Simplify&ref=Simplify) |
@@ -61,9 +54,9 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | Capital One | Master's Data Science Internship | 8 locations Cambridge, MA SF San Jose, CA Plano, TX McLean, VA Richmond, VA Chicago, IL NYC | - | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1?utm_source=Simplify&ref=Simplify) |
 | Capital One | Software Engineer Intern | McLean, VA Plano, TX Richmond, VA | Aug 03 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1?utm_source=github-vansh-ouckah) |
 | Cloudflare | Accounting Intern (Fall 2026) | In-Office | Aug 03 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104) |
-| Cloudflare | AI Innovation Intern – Service Sales (Fall 2026) | In-Office | Jul 06 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) |
-| Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jul 01 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) |
+| Cloudflare | Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026) | In-Office | Apr 24 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607) |
 | Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jun 26 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) |
+| Cloudflare | Network Strategy Intern (Fall 2026) | In-Office | Jul 01 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) |
 | Cloudflare | Professional Services Intern – Global Customer Services (Fall 2026) | In-Office | Apr 10 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 28 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | Jul 29 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) |
@@ -75,9 +68,9 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | Cohere | Software Engineer Intern - Fall / Winter 2026 | Canada +1 | - | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Nov 07 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
 | Databricks | Product Management Intern | SF Bellevue, WA Mountain View, CA | - | [Apply](https://boards.greenhouse.io/embed/job_app?token=6883068002&utm_source=Simplify&ref=Simplify) |
-| eBay | Intern Category & Seller Success FR | Paris | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Paris/Intern-Category---Seller-Success-FR_R0075462) |
 | eBay | Intern Category Mgmt. Fashion (f/m/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Intern-Category-Mgmt-Fashion--f-m-d-_R0075958) |
 | eBay | Intern Marketing IT (f/m/d) | Milano | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Milano/Intern-Marketing-IT--f-m-d-_R0075436) |
+| eBay | Intern Seller Community (m/f/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Intern-Seller-Community--m-f-d-_R0076401) |
 | eBay | Working Student Employee Comms DE(f/m/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Working-Student-Employee-Comms-DE-f-m-d-_R0076308) |
 | eBay | Working Student Imports(m/f/d) | Kleinmachnow | - | [Apply](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Kleinmachnow/Working-Student-Imports-m-f-d-_R0076397) |
 | Figma | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | - | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
@@ -135,7 +128,6 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | NVIDIA | System Design Engineer - LDE (RDSS Intern) | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878) |
 | NVIDIA | System Design Intern, LDE - 2027 | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952) |
 | NVIDIA | System Design Validation Intern - 2027 | Taiwan, Taipei | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) |
-| Oracle | GDI Business Analyst Intern - OVIP | Austin, TX, United States | - | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334390) |
 | Oracle | Platform Software Engineer 1 - Full-time Intern Conversion | USA | - | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415) |
 | Palantir | Deployment Strategist, Internship | Paris, France | May 11 | [Apply](https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0) |
 | Palantir | Deployment Strategist, Internship - US Government | Honolulu, HI | Dec 11 | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
@@ -161,7 +153,7 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | Palantir | Product Designer, Internship - US Government | New York, NY | Aug 12 | [Apply](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) |
 | Palantir | Product Designer, Internship - US Government | Palo Alto, CA | Jul 31 | [Apply](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) |
 | Palantir | Product Designer, Internship - US Government | Washington, D.C. | Aug 19 | [Apply](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) |
-| Palantir | Software Engineer, Internship | Denver, CO | - | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) |
+| Palantir | Software Engineer, Internship | Denver, CO | Aug 29 | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) |
 | Palantir | Software Engineer, Internship | London, United Kingdom | Jul 01 | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) |
 | Palantir | Software Engineer, Internship - Defense Tech | New York, NY | Aug 05 | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
 | Palantir | Software Engineer, Internship - Defense Tech | Palo Alto, CA | Aug 05 | [Apply](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) |
@@ -177,7 +169,6 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
 | Robinhood | Market Research Strategy Intern | Singapore | Aug 04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727) |
 | Roblox | Software Engineer Intern | San Mateo, CA | Aug 05 | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us&utm_source=github-vansh-ouckah) |
-| Salesforce | Sales Intern - Dutch Speaker | Netherlands - Amsterdam | - | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Netherlands---Amsterdam/Sales-Intern---Dutch-Speaker_JR335817-1) |
 | Stripe | Software Engineer, Intern | Bengaluru | Jul 10 | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
 | TikTok | AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670010726514493749?utm_source=Simplify&ref=Simplify) |
 | TikTok | AI Product Manager Intern - Content Ecosystem | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7667578131150506293?utm_source=Simplify&ref=Simplify) |
@@ -238,14 +229,18 @@ _Target season: Summer 2027. Last checked 2026-08-13. Postings are not filtered 
 | TikTok | Machine Learning Scientist Intern | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7667934169444485429?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Scientist Intern - Content Ecology - LLM Application | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7667933770625599749?utm_source=Simplify&ref=Simplify) |
 | TikTok | Machine Learning Scientist Intern - Recommendation | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7662657855099357493?utm_source=Simplify&ref=Simplify) |
+| TikTok | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673663349758675205?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Ads Interface and Platform | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672562486917286149?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Ads Interface and Platform | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7672569081632229685?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Commerce Ads | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672557943224961333?utm_source=Simplify&ref=Simplify) |
+| TikTok | Product Manager Intern - Content and Services | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673337777708550405?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Product Infrastructure - Account | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670009830602721589?utm_source=Simplify&ref=Simplify) |
+| TikTok | Product Manager Intern - Scaled Growth | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673559305519794437?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Manager Intern - Signal and Identity Product | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7672554809555192117?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Operations Intern - Apps and API | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7669927344569764101?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7669705525866383621?utm_source=Simplify&ref=Simplify) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API - MBA | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7668820702623467781?utm_source=Simplify&ref=Simplify) |
+| TikTok | Product Solutions and Operations Intern - Commerce Ads | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7673340525029673221?utm_source=Simplify&ref=Simplify) |
 | TikTok | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7667874197682899205?utm_source=Simplify&ref=Simplify) |
 | TikTok | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | Seattle, WA | - | [Apply](https://lifeattiktok.com/search/7667934792727906565?utm_source=Simplify&ref=Simplify) |
 | TikTok | Research Engineer Intern - Monetization Technology - Business Integrity | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7668202602270951733?utm_source=Simplify&ref=Simplify) |
