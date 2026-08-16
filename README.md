@@ -20,19 +20,14 @@ or pay for, and it needs no API keys of any kind.
 
 ### Tracking 248 open internship posting(s)
 
-_Target season: Summer 2027. Last checked 2026-08-15. Postings are not filtered by season or role — you see everything at the companies you follow._
-
-**1 new since the last check:**
-
-| Company | Role | Location | Posted | |
-| --- | --- | --- | --- | --- |
-| Intel | Physical Design Engineering Graduate Intern | 3 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509) |
+_Target season: Summer 2027. Last checked 2026-08-16. Postings are not filtered by season or role — you see everything at the companies you follow._
 
 <details>
 <summary>All 248 tracked postings</summary>
 
 | Company | Role | Location | Posted | |
 | --- | --- | --- | --- | --- |
+| Adobe | 2027 Intern - Adobe Sales Academy BDR | 4 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977) |
 | Amazon | Robotics - Software Development Engineer Intern/Co-op | 8 locations Sunnyvale, CA North Reading, MA Westboro, MA Nashville, TN Austin, TX Arlington, VA Bellevue, WA Seattle, WA | May 09 | [Apply](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1&utm_source=github-vansh-ouckah) |
 | Amazon | Software Development Engineer Intern - AWS Data Services - Fall 2026 - US | Seattle, WA | - | [Apply](https://www.amazon.jobs/jobs/10412530/apply) |
 | Apple | Software Engineer Intern, Undergrad | United States | May 22 | [Apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships?utm_source=github-vansh-ouckah) |
@@ -77,7 +72,6 @@ _Target season: Summer 2027. Last checked 2026-08-15. Postings are not filtered 
 | Intel | AI Software Engineering Intern | 2 Locations | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | Intel | CRVLE Industrial Engineering Intern | Costa Rica, San Jose | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084) |
-| Intel | Data Science Student for AI Solutions Group | Israel, Petah-Tikva | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Petah-Tikva/Data-Science-Student-for-AI-Solutions-Group_JR0283662) |
 | Intel | Design Verification Student Worker | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Design-Verification-Student-Worker_JR0283311) |
 | Intel | Development Tools Software Intern | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) |
 | Intel | Electrical Validation Intern | Mexico, Guadalajara | - | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377) |
@@ -160,9 +154,9 @@ _Target season: Summer 2027. Last checked 2026-08-15. Postings are not filtered 
 | Palantir | Software Engineer, Internship - Infrastructure | London, United Kingdom | Jun 26 | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
 | Palantir | Software Engineer, Internship - Production Infrastructure | New York, NY | Jun 26 | [Apply](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) |
 | Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | Aug 19 | [Apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
-| Palantir | Year at Palantir - Forward Deployed S... | New York, NY | - | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer - Internship - Commercial | Chicago, IL | - | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer - Internship - USG | Washington, DC | - | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
+| Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) |
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | Mar 20 | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
 | Robinhood | Market Research Strategy Intern | Singapore | Aug 04 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727) |
@@ -283,8 +277,6 @@ _Target season: Summer 2027. Last checked 2026-08-15. Postings are not filtered 
 | TikTok | Strategy Product Manager Intern - Platform Responsibility | San Jose, CA | - | [Apply](https://lifeattiktok.com/search/7670420287191517493?utm_source=Simplify&ref=Simplify) |
 
 </details>
-
-> Source unavailable this run - Adobe (workday): unavailable (ReadTimeout: HTTPSConnectionPool(host='adobe.wd5.myworkdayjobs.com', port=443): Read timed out. (read timeout=20))
 
 <!-- RADAR:END -->
 
